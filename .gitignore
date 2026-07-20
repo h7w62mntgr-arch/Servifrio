@@ -1,0 +1,4 @@
+# Archivos pesados / no necesarios para el sitio
+CATALOGO*.pdf
+*.zip
+.thumbnail
